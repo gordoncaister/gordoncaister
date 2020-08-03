@@ -3,7 +3,7 @@ I am Gordon Caister I am a full stack engineer. I live in Milwaukee, Wisconsin
 
 I was born in South Africa and lived there until I was 21. I moved to Canada and the USA shortly thereafter. In Canada I worked as an outdoor educator. In the USA I worked in the Video Gaming industry, and then I worked as a Salesforce developer for an energy efficiency startup.
 
-My main stacks is React, Node, Express and PostgreSQL.
+My main technologies are React, Node, Express and PostgreSQL.
 My language choices are Python, Javascript, HTML, CSS and SQL
 I have experience with Angular, Typescript, Salesforce click-to-code tools as well as its proprietary languages and Apex.
 
