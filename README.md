@@ -10,7 +10,7 @@ I have experience with Angular, Typescript, Salesforce click-to-code tools as we
 I'm currently working on:
   - an agnostic inventory management app for mobile using React Native
   - an 8 week long, team project for Lambda School
-  - volunteering React skills for the Milwaukee Codes - Milwaukee Decarceration Program
+  - volunteering React skills for the Code for Milwaukee - Milwaukee Decarceration Program
   - volunteering Python skills and CRM experience for [NexTo](https://digitalpublicworks.com/p/nexto)
 
 I'm currently learning React Native
