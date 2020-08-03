@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Gordon Caister I am a full stack engineer. 
+I am Gordon Caister I am a full stack engineer. I live in Milwaukee, Wisconsin
 
 I was born in South Africa and lived there until I was 21. I moved to Canada and the USA shortly thereafter. In Canada I worked as an outdoor educator. In the USA I worked in the Video Gaming industry, and then I worked as a Salesforce developer for an energy efficiency startup.
 
