@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Gordon Caister I am a full stack engineer. I live in Milwaukee, Wisconsin
 
-I was born in South Africa 🇿🇦 and lived there until I was 21. I moved to Canada and the USA shortly thereafter. In Canada I worked as an outdoor educator. In the USA I worked in the Video Gaming industry, and then I worked as a Salesforce developer for an energy efficiency startup. Happy
+I was born in South Africa 🇿🇦 and lived there until I was 21. I moved to Canada and the USA shortly thereafter. In Canada I worked as an outdoor educator. In the USA I worked in the Video Gaming industry, and then I worked as a Salesforce developer for an energy efficiency startup.
 
 My main technologies are React, Node, Express and PostgreSQL.
 My language choices are Python, Javascript, HTML, CSS and SQL
@@ -12,6 +12,7 @@ I'm currently working on:
   - an 8 week long, team project for Lambda School
   - volunteering React skills for the Code for Milwaukee - Milwaukee Decarceration Program
   - volunteering Python skills and CRM experience for [NexTo](https://digitalpublicworks.com/p/nexto)
+  - creating a react app for airtable for the NexTo platform, using multiple API's to create an optimized and routed map view for deliveries.
 
 I'm currently learning React Native
 
