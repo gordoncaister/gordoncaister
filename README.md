@@ -11,7 +11,7 @@ I'm currently working on:
   - an agnostic inventory management app for mobile using React Native
   - an 8 week long, team project for Lambda School
   - volunteering React skills for the Code for Milwaukee - Milwaukee Decarceration Program
-  - volunteering Python skills and CRM experience for [NexTo](https://digitalpublicworks.com/p/nexto)
+  - volunteering Python skills and React experience for [NexTo](https://digitalpublicworks.com/p/nexto)
   - creating a react app for airtable for the NexTo platform, using multiple API's to create an optimized and routed map view for deliveries.
 
 I'm currently learning React Native
